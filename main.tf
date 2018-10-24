@@ -1,6 +1,6 @@
 terraform {
   backend "atlas" {
-    name = "achuchulev/tf-atlas-backend"
+    name = "atanasc/tf-atlas-backend"
   }
 }
 
